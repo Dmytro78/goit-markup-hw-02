@@ -1,4 +1,4 @@
-# goit-markup-hw-01
+# goit-markup-hw-02
 
 repo https://github.com/Dmytro78/goit-markup-hw-02
 
