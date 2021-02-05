@@ -1,10 +1,32 @@
+.logo {
+  color: black;
+}
+
+.logo-footer {
+  color: white;
+}
+
+.web {
+  color: #2196f3;
+}
+
+.contakts-item {
+  color: #757575;
+}
+
 .links-item:hover,
 .links-item:focus,
 .contakts-item:hover,
 .contakts-item:focus {
   color: #2196f3;
 }
+
 .btn:hover {
   background: #2196f3;
   color: white;
+}
+
+.footer {
+  background: #2f303a;
+  color: #ffffff;
 }
