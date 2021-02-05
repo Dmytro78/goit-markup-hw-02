@@ -1,0 +1,10 @@
+.links-item:hover,
+.links-item:focus,
+.contakts-item:hover,
+.contakts-item:focus {
+  color: #2196f3;
+}
+.btn:hover {
+  background: #2196f3;
+  color: white;
+}
