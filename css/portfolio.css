@@ -1,4 +1,15 @@
 .btn:hover {
-  background: #2196f3;
-  color: white;
+  background: var(--blue-text);
+  color: var(--white-text);
+}
+
+.post-itemh {
+  color: var(--black-text);
+}
+
+.post-itemps,
+.post-itempd,
+.post-itempm,
+.post-itempa {
+  color: var(--gray-text-op100);
 }
