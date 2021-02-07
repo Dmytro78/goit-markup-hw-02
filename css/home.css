@@ -6,3 +6,7 @@
 .hero-btn {
   color: var(--white-text);
 }
+
+.ot {
+  background: var(--gray-background2);
+}
