@@ -8,6 +8,18 @@
   --gray-background2: rgba(245, 244, 250, 1);
 }
 
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+li {
+  list-style-type: none;
+}
+
+.current {
+  color: rgba(33, 150, 243, 1);
+}
+
 .logo,
 .links-item,
 .contakts-item,
@@ -17,16 +29,14 @@
   text-decoration: none;
 }
 
-li {
-  list-style-type: none;
-}
-
 .logo {
   color: var(--black-text);
+  font-family: 'Raleway', sans-serif;
 }
 
 .logo-footer {
   color: var(--white-text);
+  font-family: 'Raleway', sans-serif;
 }
 
 .web {
@@ -35,6 +45,10 @@ li {
 
 .contakts-item {
   color: var(--gray-text-op100);
+}
+
+.links-item {
+  color: var(--black-text);
 }
 
 .links-item:hover,
