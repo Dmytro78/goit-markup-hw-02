@@ -1,4 +1,13 @@
-.logo {
+.logo,
+.links-item,
+.contakts-item,
+.hero-btn,
+.logo-footer,
+.adress {
+  text-decoration: none;
+}
+
+. .logo {
   color: black;
 }
 
@@ -28,5 +37,9 @@
 
 .footer {
   background: #2f303a;
+  color: #ffffff;
+}
+
+.adress {
   color: #ffffff;
 }
