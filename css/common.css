@@ -31,9 +31,59 @@ li {
 }
 
 .logo,
+.logo-footer {
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
+
+.links-item,
+.contakts-item {
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.hero-h1 {
+  font-size: 44px;
+  line-height: 60px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.post-title {
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.post-text,
+.adress,
+.address .contakts-item {
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+}
+
+.works,
+.ot-h2 {
+  font-size: 36px;
+  line-height: 42px;
+  letter-spacing: 0.03em;
+}
+
+.ot-list-itemh,
+.ot-list-itemp {
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+}
+
+.btn,
+.logo,
 .links-item,
 .contakts-item,
-.hero-btn,
 .logo-footer,
 .adress {
   text-decoration: none;
@@ -68,10 +118,12 @@ li {
 .links-item:hover,
 .links-item:focus,
 .contakts-item:hover,
-.contakts-item:focus,
-.hero-btn:hover,
-.hero-btn:focus {
+.contakts-item:focus {
   color: var(--blue-text);
+}
+
+.btn {
+  cursor: pointer;
 }
 
 .btn:hover {
