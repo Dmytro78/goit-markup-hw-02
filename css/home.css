@@ -1,16 +1,16 @@
 .hero {
-  background: var(--gray-background);
-  color: var(--white-text);
+  background: var(--accent-background-color);
+  color: var(--text-color);
 }
 
 .btn {
-  background: var(--blue-text);
-  color: var(--white-text);
+  background: var(--button-color);
+  color: var(--text-color);
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 0.06em;
 }
 
 .ot {
-  background: var(--gray-background2);
+  background: var(--background-color);
 }
